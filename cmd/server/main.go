@@ -1,1 +1,2 @@
+// Chat server
 package main
